@@ -1,0 +1,58 @@
+STLC
+
+1:Requirment/analyse, SmMART criteria specific,measureble,attainable, relevent, time base
+
+
+Test planning- what when how who when  prepared by test lead
+
+Test case Development
+amazon.com - Production Enviroment
+Dev.amazon.com- Develover enviroment, where developers make code
+Test.amazon.com- QA Tester Enviroment, where tester do test
+Stage.amazon.com - like a trial page where real user test it.(UAT user acceptance testing) then it goes to production
+
+There are 2 types of testing 1)Funcional 2) non fuctional
+
+Fuctional- to check the fuctioality of the application
+
+Non Fuctional- backend testing
+
+Regression testing testing all the completed funtionality/all the test cases
+
+only Developers do unit/component testing.
+
+QA tester we perform the integration testing/ test fuctionality
+
+regression tests all the scenarios
+
+system testing- test everything front to end. smoke test
+SDLC (Software developement Cycle)
+
+Software - a machine readable code or program that tells computers how to perform or do its task
+Hardware- is physical like screen, monitors,keyboards & things that you can touch.
+
+
+SDLC phases
+1.Planning - it is marketable, return of investment, probability of achievement and success,is there a demand.
+
+
+2. Analysis- a business analyst meets w/ clients and takes all the detailed "requirements" which are
+fine details of info. they also talk to "end users" about the process that they will be using at the most.
+Stakeholders and all the people involved as well as domain experts, coders & developers who have already buildt
+a similar code, program or app.
+
+
+3. Design- designs networks, app architect, user interface, system interface, database, prototypes and system controls.
+they are the designers & architect of the project or software being developed.they build the blueprints to support the system
+for its primary goals. goals that are current and for the future.
+
+
+4.Implementation/development-  this is where all the construction workers/ coders start to build. They bring the designed plan
+ into life. they also create the database and install the hardware and software to make everything work
+
+
+ 5. Requirement/testing- This is where we come in. we are the inspects  trying to find all the bugs and ways to break the system
+ of code so we can send back to the developer to improve and fix the bug. we verify the the coding is good and ready to go
+
+
+ 6.Maintenance- self explained its to maintain and observe the perform for short term to keep it up to date.
